@@ -37,7 +37,7 @@
     "monaco-html": "2.7.0",
     "monaco-json": "2.9.0",
     "monaco-languages": "1.10.0",
-    "monaco-typescript": "3.7.0",
+    "monaco-typescript": "github:c3-e/monaco-typescript",
     "playwright": "1.2.0-next.1596653191842",
     "rimraf": "^3.0.2",
     "style-loader": "^1.2.1",
